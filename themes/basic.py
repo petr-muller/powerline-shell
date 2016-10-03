@@ -35,3 +35,6 @@ class Color(DefaultColor):
 
     VIRTUAL_ENV_BG = 2
     VIRTUAL_ENV_FG = 0
+
+    PROXY_FG = 5
+    PROXY_BG = 0
